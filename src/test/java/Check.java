@@ -13,7 +13,7 @@ public class Check extends DriverUI {
         super.startBrowser();
     }
 
-    @Test(description = "Checking the test")
+    @Test(description = "Checking thekoimkmlkmlkm test for first time ok")
     public void iNavigateToTheHotelBookingFormPage() {
 
         browser.searchGoogle();
